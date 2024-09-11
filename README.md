@@ -37,6 +37,12 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 
 ![sfo1](https://github.com/user-attachments/assets/6a2dbc36-929c-4a9b-8921-0a8be66a787d)
+![sfo2](https://github.com/user-attachments/assets/cf418356-09e9-48b7-b8b3-9f78f9195a5b)
+![sfo3](https://github.com/user-attachments/assets/5abde7da-b82a-454d-94e0-8ce92fc13b48)
+![sfo4](https://github.com/user-attachments/assets/236dca38-060f-47e2-9aa9-15210528f5b8)
+
+
+
 
 
 
